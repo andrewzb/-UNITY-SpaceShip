@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8f3966ff6304152b804394abf9cfd11, type: 3}
+  m_Name: Heavy
+  m_EditorClassIdentifier: Assembly-CSharp:SpaceShip.Models:ShipConfigSO
+  _shipName: Heavy
+  _hullPoints: 200
+  _forwardSpeed: 18
+  _backwardSpeed: 4
+  _sideSpeed: 4
+  _rotationSpeed: 1
+  _shipSprite: {fileID: 21300000, guid: e3e2baca26c5e614aa4c1272a6637db4, type: 3}
